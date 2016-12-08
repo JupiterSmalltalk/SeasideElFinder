@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSeasideElFinder",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSeasideElFinder",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
