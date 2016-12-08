@@ -1,5 +1,4 @@
 baseline
 baseline: spec
-	<baseline>
-	spec for: #'common' do: [
-		spec package: 'SeasideElFinder-Core'. ].
+  <baseline>
+  spec for: #'common' do: [ spec package: 'Seaside-ElFinder-Core' ]

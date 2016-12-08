@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-ElFinder-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ElFinder",
+	"pools" : [
+		 ],
+	"super" : "JSScript",
+	"type" : "normal" }
