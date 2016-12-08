@@ -1,1 +1,1 @@
-(name 'Seaside-ElFinder-Core-jupiter.1' message 'add core package' id '1187bcaf-3af1-4824-b9bb-c3f26bedf263' date '12/07/2016' time '22:01:51' author 'jupiter' ancestors () stepChildren ())
+(name 'Seaside-ElFinder-Core-jupiter.2' message 'add client configuration' id 'b0eb1150-58c6-4261-b5f7-39fd95cdb3d1' date '12/08/2016' time '01:36:45' author 'jupiter' ancestors ((name 'Seaside-ElFinder-Core-jupiter.1' message 'add core package' id '1187bcaf-3af1-4824-b9bb-c3f26bedf263' date '12/07/2016' time '22:01:51' author 'jupiter' ancestors () stepChildren ())) stepChildren ())

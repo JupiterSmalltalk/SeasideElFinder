@@ -1,0 +1,3 @@
+seaside
+jsDialogSelectors
+  ^ #('jsjquerydialogelfinderJs')

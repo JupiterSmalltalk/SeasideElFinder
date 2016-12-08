@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "jupiter 12/07/2016 23:55",
 	"instvars" : [
 		 ],
 	"name" : "ElFinder",
 	"pools" : [
 		 ],
-	"super" : "JSScript",
+	"super" : "JQWidget",
 	"type" : "normal" }

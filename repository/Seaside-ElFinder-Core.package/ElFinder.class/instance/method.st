@@ -1,0 +1,3 @@
+jqWidget
+method
+  ^ 'elfinder'

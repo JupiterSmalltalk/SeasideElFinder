@@ -1,0 +1,3 @@
+seaside
+jsCommandSelectors
+  ^ #('jscommandsarchiveJs' 'jscommandsbackJs' 'jscommandscopyJs' 'jscommandscutJs' 'jscommandschmodJs' 'jscommandscolwidthJs' 'jscommandsdownloadJs' 'jscommandsduplicateJs' 'jscommandseditJs' 'jscommandsextractJs' 'jscommandsforwardJs' 'jscommandsfullscreenJs' 'jscommandsgetfileJs' 'jscommandshelpJs' 'jscommandshomeJs' 'jscommandsinfoJs' 'jscommandsmkdirJs' 'jscommandsmkfileJs' 'jscommandsnetmountJs' 'jscommandsopenJs' 'jscommandsopendirJs' 'jscommandspasteJs' 'jscommandsplacesJs' 'jscommandsquicklookJs' 'jscommandsquicklook.pluginsJs' 'jscommandsreloadJs' 'jscommandsrenameJs' 'jscommandsresizeJs' 'jscommandsrmJs' 'jscommandssearchJs' 'jscommandssortJs' 'jscommandsupJs' 'jscommandsuploadJs' 'jscommandsviewJs')
