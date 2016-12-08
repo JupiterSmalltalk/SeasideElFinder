@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-ElFinder-FileLibraries",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ElFinderFileLibrary",
+	"pools" : [
+		 ],
+	"super" : "WAFileMetadataLibrary",
+	"type" : "normal" }

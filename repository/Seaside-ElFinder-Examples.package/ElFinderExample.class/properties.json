@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-ElFinder-Examples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ElFinderExample",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }
