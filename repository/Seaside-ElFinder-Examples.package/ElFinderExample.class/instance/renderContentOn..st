@@ -8,7 +8,7 @@ renderContentOn: canvas
   canvas div
     script:
       (canvas jQuery this elFinder
-        url: 'http://blaa/';
+        connectorCallback;
         defaultIconsView;
         cssClass: 'myCssClassForElFinder';
         language: 'en';
