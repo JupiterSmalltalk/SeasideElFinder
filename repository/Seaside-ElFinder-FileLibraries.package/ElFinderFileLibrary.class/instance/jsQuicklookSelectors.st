@@ -1,3 +1,3 @@
 seaside
 jsQuicklookSelectors
-  ^ #('jsextrasquicklookgoogledocsJs')
+  ^ #(#'jsextrasquicklookgoogledocsJs')

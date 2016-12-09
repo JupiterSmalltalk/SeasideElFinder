@@ -1,14 +1,14 @@
 {
-	"category" : "Seaside-ElFinder-Core",
+	"category" : "Seaside-ElFinder-Commands",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"connector" ],
-	"name" : "ElFinder",
+		 ],
+	"name" : "ElFinderCommand",
 	"pools" : [
 		 ],
-	"super" : "JQWidget",
+	"super" : "Object",
 	"type" : "normal" }

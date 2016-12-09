@@ -1,3 +1,3 @@
 seaside
 jsDialogSelectors
-  ^ #('jsjquerydialogelfinderJs')
+  ^ #(#'jsjquerydialogelfinderJs')

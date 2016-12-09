@@ -1,3 +1,4 @@
 initialisation
 initialize
-  super initialize
+  super initialize.
+  connector := ElFinderConnector new

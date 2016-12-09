@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"connector" ],
-	"name" : "ElFinder",
+		 ],
+	"name" : "ElFinderConnector",
 	"pools" : [
 		 ],
-	"super" : "JQWidget",
+	"super" : "Object",
 	"type" : "normal" }

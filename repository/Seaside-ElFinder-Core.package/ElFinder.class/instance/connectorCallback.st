@@ -1,10 +1,9 @@
 connector
 connectorCallback
-  self
-    optionAt: 'url'
-    put:
-      (self renderContext actionUrl copy
-        addParameter:
-            (self renderContext callbacks
-                store: (JSAjaxCallback on: [ self processCallback ]));
-        yourself)
+  | connectorUrl |
+  connectorUrl := self renderContext actionUrl copy
+    addField:
+        (self renderContext callbacks
+            store: (JSAjaxCallback on: [ self processConnectorCallback ]));
+    yourself.
+  self url: connectorUrl
