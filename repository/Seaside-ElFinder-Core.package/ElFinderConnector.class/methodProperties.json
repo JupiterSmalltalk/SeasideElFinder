@@ -2,4 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"responseForRequest:" : "jupiter 12/09/2016 13:45" } }
+		"commandNotFoundError:" : "jupiter 12/09/2016 15:08",
+		"debug:" : "jupiter 12/09/2016 14:16",
+		"responseForRequest:" : "jupiter 12/10/2016 14:27",
+		"uploadTempPath:" : "jupiter 12/09/2016 13:58" } }

@@ -1,5 +1,13 @@
 {
 	"class" : {
-		 },
+		"classForCommand:" : "jupiter 12/09/2016 15:18",
+		"commands" : "jupiter 12/09/2016 14:57",
+		"connector:" : "jupiter 12/10/2016 14:27",
+		"respondsToCommand:" : "jupiter 12/09/2016 14:57" },
 	"instance" : {
-		 } }
+		"coerce:toClass:" : "jupiter 12/09/2016 19:29",
+		"connector:" : "jupiter 12/10/2016 14:29",
+		"initialize" : "jupiter 12/09/2016 15:56",
+		"parseArgumentsFromRequest:" : "jupiter 12/09/2016 19:31",
+		"requestArguments" : "jupiter 12/09/2016 15:33",
+		"responseForRequest:" : "jupiter 12/09/2016 19:31" } }

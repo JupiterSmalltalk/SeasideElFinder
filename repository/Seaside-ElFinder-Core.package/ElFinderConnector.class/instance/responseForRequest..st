@@ -1,7 +1,6 @@
-request processing
+request handling
 responseForRequest: aWARequest
-  | command |
-  command := (aWARequest at: 'cmd') asSymbol.
-  ^ Dictionary new
-    at: 'error' put: 'Seaside ElFinder error';
-    yourself
+  | cmd |
+  ^ (ElFinderCommand classForCommand: (cmd := aWARequest at: 'cmd'))
+    ifNotNil: [ :commandClass | (commandClass connector: self) responseForRequest: aWARequest ]
+    ifNil: [ self commandNotFoundError: cmd ]

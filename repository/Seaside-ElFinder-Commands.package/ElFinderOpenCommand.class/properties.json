@@ -6,11 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"connector",
-		"arguments",
-		"response" ],
-	"name" : "ElFinderCommand",
+		 ],
+	"name" : "ElFinderOpenCommand",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "ElFinderCommand",
 	"type" : "normal" }

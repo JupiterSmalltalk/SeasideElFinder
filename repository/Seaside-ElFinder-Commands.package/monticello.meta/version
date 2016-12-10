@@ -1,1 +1,1 @@
-(name 'Seaside-ElFinder-Commands-jupiter.1' message 'wip - connector' id '6d03d065-736e-4535-9b48-f86b2a56a796' date '12/09/2016' time '13:47:33' author 'jupiter' ancestors () stepChildren ())
+(name 'Seaside-ElFinder-Commands-jupiter.2' message 'connector testing' id '710d2840-5a98-4f26-8d21-67459747f552' date '12/10/2016' time '14:55:14' author 'jupiter' ancestors ((name 'Seaside-ElFinder-Commands-jupiter.1' message 'wip - connector' id '6d03d065-736e-4535-9b48-f86b2a56a796' date '12/09/2016' time '13:47:33' author 'jupiter' ancestors () stepChildren ())) stepChildren ())
