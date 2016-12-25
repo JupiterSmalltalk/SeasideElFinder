@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-ElFinder-Tests-Drivers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ElFinderDriverTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

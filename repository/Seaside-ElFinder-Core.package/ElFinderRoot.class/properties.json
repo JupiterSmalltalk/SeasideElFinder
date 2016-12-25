@@ -1,0 +1,16 @@
+{
+	"category" : "Seaside-ElFinder-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"driver",
+		"path",
+		"url" ],
+	"name" : "ElFinderRoot",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

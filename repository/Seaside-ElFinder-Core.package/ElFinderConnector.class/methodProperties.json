@@ -2,6 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
+		"addRoot:" : "jupiter 12/23/2016 22:07",
+		"addRoot:driver:url:" : "jupiter 12/23/2016 22:07",
 		"commandNotFoundError:" : "jupiter 12/09/2016 15:08",
 		"debug:" : "jupiter 12/09/2016 14:16",
 		"responseForRequest:" : "jupiter 12/10/2016 14:27",
