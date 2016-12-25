@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"roots" ],
+		"roots",
+		"options",
+		"announcer" ],
 	"name" : "ElFinderConnector",
 	"pools" : [
 		 ],

@@ -3,5 +3,7 @@
 		"install" : "jupiter 12/07/2016 22:39",
 		"uninstall" : "jupiter 12/07/2016 22:34" },
 	"instance" : {
-		"renderContentOn:" : "jupiter 12/09/2016 14:18",
+		"defaultRoot" : "jupiter 12/25/2016 04:20",
+		"elFinderScriptOn:" : "jupiter 12/25/2016 02:01",
+		"renderContentOn:" : "jupiter 12/25/2016 01:28",
 		"updateRoot:" : "jupiter 12/07/2016 23:16" } }

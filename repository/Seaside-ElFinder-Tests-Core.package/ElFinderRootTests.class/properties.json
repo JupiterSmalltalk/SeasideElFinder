@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-ElFinder-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ElFinderRootTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

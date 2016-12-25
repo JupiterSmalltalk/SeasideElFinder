@@ -1,3 +1,3 @@
-configuration
-addRoot: anElFinderRoot
-  roots add: anElFinderRoot
+roots
+addRoot: anElFinderDriver
+  roots add: anElFinderDriver
