@@ -1,4 +1,4 @@
-client config
+options - browser
 reloadClearHistory: aBoolean
   "reloadClearHistory
 

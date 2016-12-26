@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-ElFinder-Tests-Scripting",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 12/25/2016 14:40",
+	"instvars" : [
+		 ],
+	"name" : "ElFinderScriptOptionsTests",
+	"pools" : [
+		 ],
+	"super" : "JQueryTest",
+	"type" : "normal" }

@@ -1,4 +1,4 @@
-client config
+options - thumbnails
 loadTmbs: anInteger
   "loadTmbs
 

@@ -1,4 +1,4 @@
-client config
+options - notifications
 notifyDialog: aDictionary
   "notifyDialog
 

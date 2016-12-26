@@ -1,9 +1,9 @@
 {
 	"class" : {
-		"install" : "jupiter 12/07/2016 22:39",
+		"install" : "jupiter 12/25/2016 01:27",
 		"uninstall" : "jupiter 12/07/2016 22:34" },
 	"instance" : {
 		"defaultRoot" : "jupiter 12/25/2016 04:20",
-		"elFinderScriptOn:" : "jupiter 12/25/2016 02:01",
+		"elFinderScriptOn:" : "jupiter 12/25/2016 13:06",
 		"renderContentOn:" : "jupiter 12/25/2016 01:28",
 		"updateRoot:" : "jupiter 12/07/2016 23:16" } }

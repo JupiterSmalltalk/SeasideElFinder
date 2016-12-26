@@ -1,4 +1,4 @@
-client config
+options - sorting
 sortType: aString
   "sortType
 

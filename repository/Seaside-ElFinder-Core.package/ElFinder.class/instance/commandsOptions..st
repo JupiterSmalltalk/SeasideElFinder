@@ -1,4 +1,4 @@
-client config
+options - commands
 commandsOptions: aDictionary
   "commandsOptions
 

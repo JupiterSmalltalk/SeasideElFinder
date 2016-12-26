@@ -1,4 +1,4 @@
-client config
+options - ui
 uiOptions: aDictionary
   "uiOptions
 

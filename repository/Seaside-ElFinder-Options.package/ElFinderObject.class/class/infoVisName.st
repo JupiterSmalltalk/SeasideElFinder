@@ -1,0 +1,4 @@
+accessing
+infoVisName
+
+	self subclassResponsibility

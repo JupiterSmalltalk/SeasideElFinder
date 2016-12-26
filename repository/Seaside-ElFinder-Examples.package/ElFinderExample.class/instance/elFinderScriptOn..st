@@ -14,5 +14,10 @@ elFinderScriptOn: canvas
     yourself.
   elFinderScript connector
     addRoot: self defaultRoot;
+    addRoot:
+        (ElFinderLocalFileSystem new
+            path: '/opt/git/nextround/ContractorManager/privateCloud/server';
+            url: 'http://dev.5smiths/com.au/server';
+            yourself);
     debug: true.
   ^ elFinderScript

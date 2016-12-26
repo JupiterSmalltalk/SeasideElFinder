@@ -1,4 +1,4 @@
-client config
+options - sizing
 width: anInteger
   "width
 

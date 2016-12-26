@@ -1,4 +1,4 @@
-client config
+options - lazy loading
 showThreshold: anInteger
   "showThreshold
 

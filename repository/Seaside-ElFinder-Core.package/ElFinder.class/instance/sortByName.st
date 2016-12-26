@@ -1,3 +1,3 @@
-client config convenience
+options - sorting
 sortByName
   self sortType: 'name'

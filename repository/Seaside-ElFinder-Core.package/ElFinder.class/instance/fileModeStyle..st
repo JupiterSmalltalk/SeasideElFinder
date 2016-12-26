@@ -1,4 +1,4 @@
-client config
+options
 fileModeStyle: aString
   "fileModeStyle
 

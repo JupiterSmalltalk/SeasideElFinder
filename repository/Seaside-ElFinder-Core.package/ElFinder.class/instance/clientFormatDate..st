@@ -1,4 +1,4 @@
-client config
+options - date and time
 clientFormatDate: aBoolean
   "clientFormatDate
 

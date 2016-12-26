@@ -1,4 +1,4 @@
-client config
+options - sizing
 resizable: aBoolean
   "resizable
 

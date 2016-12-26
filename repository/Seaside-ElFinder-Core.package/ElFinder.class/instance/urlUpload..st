@@ -1,4 +1,4 @@
-client config
+options - upload
 urlUpload: aString
   "urlUpload
 

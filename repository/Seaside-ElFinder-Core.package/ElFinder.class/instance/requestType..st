@@ -1,4 +1,4 @@
-client config
+options - request
 requestType: aString
   "requestType
 

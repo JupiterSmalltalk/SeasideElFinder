@@ -1,3 +1,3 @@
-client config convenience
+options - sorting
 sortByKind
   self sortType: 'kind'

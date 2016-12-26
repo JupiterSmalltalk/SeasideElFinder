@@ -1,4 +1,4 @@
-client config
+options - upload
 uploadMaxChunkSize: anInteger
   "uploadMaxChunkSize
 

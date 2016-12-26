@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-ElFinder-Options",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 12/25/2016 17:31",
+	"instvars" : [
+		"options" ],
+	"name" : "ElFinderObject",
+	"pools" : [
+		 ],
+	"super" : "JSObject",
+	"type" : "normal" }

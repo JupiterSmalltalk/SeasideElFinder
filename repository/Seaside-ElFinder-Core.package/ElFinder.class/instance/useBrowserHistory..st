@@ -1,4 +1,4 @@
-client config
+options - browser
 useBrowserHistory: aBoolean
   "useBrowserHistory
 

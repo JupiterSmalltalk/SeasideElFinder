@@ -1,4 +1,4 @@
-client config
+options - connector
 url: aURL
   "url
 

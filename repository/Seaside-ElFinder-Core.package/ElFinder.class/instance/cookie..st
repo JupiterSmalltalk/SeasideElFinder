@@ -1,4 +1,4 @@
-client config
+options - cookie
 cookie: aDictionary
   "cookie
 

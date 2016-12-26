@@ -1,4 +1,4 @@
-client config
+options - debug
 debug: anArrayOrBoolean
   "Debug config
 

@@ -1,4 +1,4 @@
-client config
+options - request
 xhrFields: aDictionary
   "xhrFields
 

@@ -1,3 +1,3 @@
-client config convenience
+options - views
 defaultListView
   self defaultView: 'list'

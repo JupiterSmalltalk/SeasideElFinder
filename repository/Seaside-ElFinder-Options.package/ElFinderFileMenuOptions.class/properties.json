@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-ElFinder-Options",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ElFinderFileMenuOptions",
+	"pools" : [
+		 ],
+	"super" : "ElFinderArrayOptions",
+	"type" : "normal" }

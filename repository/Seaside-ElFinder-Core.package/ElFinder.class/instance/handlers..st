@@ -1,4 +1,4 @@
-client config
+options
 handlers: aDictionary
   "handlers
 

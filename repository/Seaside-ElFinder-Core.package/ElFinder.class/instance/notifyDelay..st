@@ -1,4 +1,4 @@
-client config
+options - notifications
 notifyDelay: anInteger
   "notifyDelay
 

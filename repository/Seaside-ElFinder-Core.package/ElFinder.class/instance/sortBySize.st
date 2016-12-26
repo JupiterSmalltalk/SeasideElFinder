@@ -1,3 +1,3 @@
-client config convenience
+options - sorting
 sortBySize
   self sortType: 'size'
