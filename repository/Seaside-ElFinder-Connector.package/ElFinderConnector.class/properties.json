@@ -1,0 +1,17 @@
+{
+	"category" : "Seaside-ElFinder-Connector",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"roots",
+		"options",
+		"currentWorkingDirectory",
+		"announcer" ],
+	"name" : "ElFinderConnector",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

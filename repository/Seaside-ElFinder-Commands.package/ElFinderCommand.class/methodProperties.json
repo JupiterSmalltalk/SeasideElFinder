@@ -7,8 +7,12 @@
 	"instance" : {
 		"coerce:toClass:" : "jupiter 12/09/2016 19:29",
 		"connector:" : "jupiter 12/10/2016 14:29",
+		"decode:" : "jupiter 12/26/2016 21:40",
+		"encode:" : "jupiter 12/26/2016 21:40",
+		"fileDictionaryForFile:" : "jupiter 12/27/2016 01:59",
+		"fileDictionaryForFiles:" : "jupiter 12/26/2016 23:26",
 		"handleRequest" : "jupiter 12/26/2016 16:19",
-		"initialize" : "jupiter 12/09/2016 15:56",
+		"initialize" : "jupiter 12/26/2016 23:48",
 		"parseArgumentsFromRequest:" : "jupiter 12/09/2016 19:31",
 		"requestArguments" : "jupiter 12/09/2016 15:33",
 		"response" : "jupiter 12/26/2016 16:20",

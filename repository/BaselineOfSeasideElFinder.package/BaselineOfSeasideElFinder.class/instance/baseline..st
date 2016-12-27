@@ -9,11 +9,13 @@ baseline: spec
         package: 'Seaside-ElFinder-Commands';
         package: 'Seaside-ElFinder-Drivers';
         package: 'Seaside-ElFinder-Options';
-        package: 'Seaside-ElFinder-Core'
+        package: 'Seaside-ElFinder-Connector'
           with: [ 
               spec
                 requires:
                   #('Seaside-ElFinder-FileLibraries' 'Seaside-ElFinder-Commands' 'Seaside-ElFinder-Drivers' 'Seaside-ElFinder-Options') ];
+        package: 'Seaside-ElFinder-Core'
+          with: [ spec requires: #('Seaside-ElFinder-Connector') ];
         package: 'Seaside-ElFinder-Examples'
           with: [ spec requires: #('Seaside-ElFinder-Core') ];
         package: 'Seaside-ElFinder-Tests-Drivers'

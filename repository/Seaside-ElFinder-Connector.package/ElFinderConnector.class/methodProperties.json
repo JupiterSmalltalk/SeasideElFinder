@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"version" : "jupiter 12/26/2016 19:15" },
+	"instance" : {
+		"addRoot:" : "jupiter 12/25/2016 04:22",
+		"commandNotFoundError:" : "jupiter 12/09/2016 15:08",
+		"commonTempPath:" : "jupiter 12/25/2016 04:29",
+		"currentWorkingDirectory" : "jupiter 12/26/2016 23:42",
+		"currentWorkingDirectory:" : "jupiter 12/26/2016 19:35",
+		"debug" : "jupiter 12/26/2016 19:11",
+		"debug:" : "jupiter 12/25/2016 04:29",
+		"debugDictionaryWithCommand:timeToRun:exception:" : "jupiter 12/26/2016 19:11",
+		"initialize" : "jupiter 12/25/2016 04:25",
+		"maxArcFilesSize:" : "jupiter 12/25/2016 04:29",
+		"on:send:to:" : "jupiter 12/25/2016 13:04",
+		"responseForRequest:" : "jupiter 12/26/2016 20:37",
+		"roots" : "jupiter 12/25/2016 01:38",
+		"uploadTempPath:" : "jupiter 12/25/2016 04:28",
+		"version" : "jupiter 12/26/2016 19:16" } }

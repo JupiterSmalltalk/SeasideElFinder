@@ -1,15 +1,13 @@
 {
-	"category" : "Seaside-ElFinder-Core",
+	"category" : "Seaside-ElFinder-Connector",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"mimeMap" ],
 	"commentStamp" : "",
 	"instvars" : [
-		"roots",
-		"options",
-		"announcer" ],
-	"name" : "ElFinderConnector",
+		 ],
+	"name" : "ElFinderMimeMap",
 	"pools" : [
 		 ],
 	"super" : "Object",

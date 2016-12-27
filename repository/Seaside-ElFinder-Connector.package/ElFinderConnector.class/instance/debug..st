@@ -1,4 +1,4 @@
-options
+debugging
 debug: aBoolean
   "debug
 

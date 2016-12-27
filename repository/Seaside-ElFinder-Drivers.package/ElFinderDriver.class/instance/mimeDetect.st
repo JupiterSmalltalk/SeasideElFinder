@@ -1,5 +1,5 @@
 options - mime
-mimeDetect: aString
+mimeDetect
   "mimeDetect
 
 Method to detect files mimetypes. Can be auto, internal, finfo, mime_content_type
@@ -7,4 +7,4 @@ Method to detect files mimetypes. Can be auto, internal, finfo, mime_content_typ
 Data type: string
 Default value: 'auto'"
 
-  options at: #'mimeDetect' put: aString
+  ^ options at: #'mimeDetect' ifAbsent: [ 'auto' ]

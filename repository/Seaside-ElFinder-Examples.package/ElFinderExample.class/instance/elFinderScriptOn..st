@@ -15,18 +15,19 @@ elFinderScriptOn: canvas
   elFinderScript connector
     addRoot:
         (volumeGroup := ElFinderGroup new
+            id: '1';
             alias: 'Local Group';
-            id: 'localGroup';
-            rootCssClass: 'elfinder-navbar-root-local';
             yourself);
     addRoot:
         (ElFinderLocalFileSystem new
+            id: '2';
             name: 'Smalltalk Default Directory';
             path: GRPlatform current defaultDirectoryPathString;
             parent: volumeGroup;
             yourself);
     addRoot:
         (ElFinderLocalFileSystem new
+            id: '3';
             name: '5Smiths Server';
             path: '/opt/git/nextround/ContractorManager/privateCloud/server';
             url: 'http://dev.5smiths/com.au/server';
