@@ -16,11 +16,9 @@
 		"copyTo:" : "jupiter 12/25/2016 04:02",
 		"cryptLib:" : "jupiter 12/25/2016 04:02",
 		"dateFormat:" : "jupiter 12/25/2016 04:02",
-		"decode:" : "jupiter 12/26/2016 16:37",
 		"defaults:" : "jupiter 12/25/2016 04:02",
 		"disabled:" : "jupiter 12/25/2016 04:02",
 		"driverId" : "jupiter 12/26/2016 15:31",
-		"encode:" : "jupiter 12/26/2016 16:38",
 		"encoding:" : "jupiter 12/25/2016 04:02",
 		"i18nFolderName:" : "jupiter 12/25/2016 04:02",
 		"id" : "jupiter 12/26/2016 15:41",
@@ -31,8 +29,6 @@
 		"mimeDetect:" : "jupiter 12/25/2016 04:02",
 		"mimeMap:" : "jupiter 12/25/2016 04:02",
 		"mimefile:" : "jupiter 12/25/2016 04:02",
-		"parent" : "jupiter 12/26/2016 15:52",
-		"parent:" : "jupiter 12/26/2016 15:52",
 		"path:" : "jupiter 12/25/2016 04:02",
 		"phash:" : "jupiter 12/25/2016 04:02",
 		"quarantine:" : "jupiter 12/25/2016 04:02",
@@ -55,5 +51,4 @@
 		"uploadMaxSize:" : "jupiter 12/25/2016 04:02",
 		"uploadOrder:" : "jupiter 12/25/2016 04:02",
 		"uploadOverwrite:" : "jupiter 12/25/2016 04:02",
-		"url:" : "jupiter 12/25/2016 04:02",
-		"volumeId" : "jupiter 12/26/2016 16:13" } }
+		"url:" : "jupiter 12/25/2016 04:02" } }
