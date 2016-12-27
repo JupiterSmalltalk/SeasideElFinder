@@ -7,7 +7,9 @@
 	"instance" : {
 		"coerce:toClass:" : "jupiter 12/09/2016 19:29",
 		"connector:" : "jupiter 12/10/2016 14:29",
+		"handleRequest" : "jupiter 12/26/2016 16:19",
 		"initialize" : "jupiter 12/09/2016 15:56",
 		"parseArgumentsFromRequest:" : "jupiter 12/09/2016 19:31",
 		"requestArguments" : "jupiter 12/09/2016 15:33",
-		"responseForRequest:" : "jupiter 12/09/2016 19:31" } }
+		"response" : "jupiter 12/26/2016 16:20",
+		"responseForRequest:" : "jupiter 12/26/2016 16:20" } }

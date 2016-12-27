@@ -1,6 +1,6 @@
 rendering
 elFinderScriptOn: canvas
-  | elFinderScript |
+  | elFinderScript volumeGroup |
   elFinderScript := canvas jQuery this elFinder
     defaultIconsView;
     cssClass: 'myCssClassForElFinder';
@@ -13,11 +13,24 @@ elFinderScriptOn: canvas
     debug: true;
     yourself.
   elFinderScript connector
-    addRoot: self defaultRoot;
+    addRoot:
+        (volumeGroup := ElFinderGroup new
+            alias: 'Local Group';
+            id: 'localGroup';
+            rootCssClass: 'elfinder-navbar-root-local';
+            yourself);
     addRoot:
         (ElFinderLocalFileSystem new
+            name: 'Smalltalk Default Directory';
+            path: GRPlatform current defaultDirectoryPathString;
+            parent: volumeGroup;
+            yourself);
+    addRoot:
+        (ElFinderLocalFileSystem new
+            name: '5Smiths Server';
             path: '/opt/git/nextround/ContractorManager/privateCloud/server';
             url: 'http://dev.5smiths/com.au/server';
+            parent: volumeGroup;
             yourself);
     debug: true.
   ^ elFinderScript

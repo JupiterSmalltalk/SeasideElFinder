@@ -1,4 +1,4 @@
-request handling
+private
 coerce: aString toClass: aClass
   "Answer the attempt to coerce aString into aClass, otherwise just answer aString"
 

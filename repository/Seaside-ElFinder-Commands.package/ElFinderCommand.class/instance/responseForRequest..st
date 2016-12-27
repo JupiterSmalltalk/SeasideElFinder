@@ -1,6 +1,6 @@
 request handling
 responseForRequest: aWARequest
-  self
+  ^ self
     parseArgumentsFromRequest: aWARequest;
-    handleRequest.
-  ^ response
+    handleRequest;
+    response
