@@ -1,0 +1,3 @@
+options
+write
+  ^ 0

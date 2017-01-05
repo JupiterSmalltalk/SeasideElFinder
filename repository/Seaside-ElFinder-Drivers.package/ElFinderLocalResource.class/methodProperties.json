@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"parent:directoryEntry:" : "jupiter 12/27/2016 15:57" },
+	"instance" : {
+		"childNamed:" : "jupiter 01/03/2017 23:21",
+		"directoryEntry:" : "jupiter 01/04/2017 16:33",
+		"driverId" : "jupiter 12/27/2016 17:37",
+		"locked" : "jupiter 12/28/2016 19:15",
+		"mime" : "jupiter 12/28/2016 17:11",
+		"mimeType" : "jupiter 01/03/2017 14:39",
+		"name" : "jupiter 12/28/2016 22:41",
+		"osPath" : "jupiter 12/28/2016 14:48",
+		"path" : "jupiter 12/27/2016 17:29",
+		"pathRelativeToRootVolume" : "jupiter 12/28/2016 14:49",
+		"read" : "jupiter 12/28/2016 19:15",
+		"rootVolume" : "jupiter 12/27/2016 17:49",
+		"stat" : "jupiter 12/28/2016 19:15",
+		"ts" : "jupiter 12/28/2016 18:43",
+		"volumeId" : "jupiter 12/27/2016 17:55",
+		"write" : "jupiter 12/28/2016 19:15" } }

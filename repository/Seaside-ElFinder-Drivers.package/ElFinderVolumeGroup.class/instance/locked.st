@@ -1,0 +1,3 @@
+options
+locked
+  ^ 1

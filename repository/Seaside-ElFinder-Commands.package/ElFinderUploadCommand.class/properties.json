@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-ElFinder-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 01/03/2017 16:34",
+	"instvars" : [
+		"target" ],
+	"name" : "ElFinderUploadCommand",
+	"pools" : [
+		 ],
+	"super" : "ElFinderCommand",
+	"type" : "normal" }

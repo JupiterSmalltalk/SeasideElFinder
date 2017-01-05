@@ -1,4 +1,4 @@
-private
+options
 arguments
 	^ options isNil
 		ifTrue: [ Array new ]

@@ -14,24 +14,29 @@ elFinderScriptOn: canvas
     yourself.
   elFinderScript connector
     addRoot:
-        (volumeGroup := ElFinderGroup new
+        (volumeGroup := ElFinderVolumeGroup new
             id: '1';
             alias: 'Local Group';
             yourself);
     addRoot:
-        (ElFinderLocalFileSystem new
-            id: '2';
-            name: 'Smalltalk Default Directory';
-            path: GRPlatform current defaultDirectoryPathString;
-            parent: volumeGroup;
-            yourself);
+        (volumeGroup
+            addVolume:
+              (ElFinderLocalFileSystem new
+                id: '2';
+                alias: 'Smalltalk Default Directory';
+                osPath: GRPlatform current defaultDirectoryPathString;
+                parent: volumeGroup;
+                yourself));
     addRoot:
-        (ElFinderLocalFileSystem new
-            id: '3';
-            name: '5Smiths Server';
-            path: '/opt/git/nextround/ContractorManager/privateCloud/server';
-            url: 'http://dev.5smiths/com.au/server';
-            parent: volumeGroup;
-            yourself);
+        (volumeGroup
+            addVolume:
+              (ElFinderLocalFileSystem new
+                id: '3';
+                alias: '5Smiths Server';
+                osPath:
+                    '/opt/git/nextround/ContractorManager/privateCloud/server';
+                url: 'http://dev.5smiths/com.au/server';
+                parent: volumeGroup;
+                yourself));
     debug: true.
   ^ elFinderScript

@@ -1,0 +1,14 @@
+{
+	"category" : "Seaside-ElFinder-Commands",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ElFinderTreeCommand",
+	"pools" : [
+		 ],
+	"super" : "ElFinderCommand",
+	"type" : "normal" }

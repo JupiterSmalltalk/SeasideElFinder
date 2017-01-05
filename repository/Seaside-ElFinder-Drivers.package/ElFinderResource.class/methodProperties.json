@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"parent:" : "jupiter 12/27/2016 12:27" },
+	"instance" : {
+		"alias" : "jupiter 12/27/2016 14:36",
+		"alias:" : "jupiter 12/27/2016 14:36",
+		"allParents" : "jupiter 12/28/2016 21:46",
+		"decode:" : "jupiter 12/27/2016 18:49",
+		"encode:" : "jupiter 12/28/2016 23:41",
+		"hash" : "jupiter 12/28/2016 14:48",
+		"jsonOn:" : "jupiter 12/28/2016 19:50",
+		"optionalOptions" : "jupiter 12/28/2016 22:41",
+		"parent" : "jupiter 12/27/2016 12:27",
+		"parent:" : "jupiter 12/27/2016 12:27",
+		"phash" : "jupiter 12/27/2016 19:00",
+		"requiredOptions" : "jupiter 12/28/2016 21:10" } }

@@ -1,22 +1,14 @@
 request handling
 handleRequest
   | target |
-  (arguments at: 'init')
+  (arguments at: 'init' ifAbsent: [ nil ])
     ifNotNil: [ :initArgument | 
       initArgument
-        ifTrue: [ response at: 'api' put: self apiVersion ] ].
+        ifTrue: [ payload at: 'api' put: self apiVersion ] ].
   (arguments at: 'target')
     ifNotNil: [ :targetHash | 
       "Set currentWorkingDirectory to directory represented by targetHash"
-      target := self decode: targetHash ].
-  response
-    at: 'cwd'
-    put:
-      (self fileDictionaryForFile: connector currentWorkingDirectory asDirectoryEntry).
-  response
-    at: 'files'
-    put:
-      (self
-        fileDictionaryForFiles:
-          connector currentWorkingDirectory asFileDirectory entries).
-  response at: 'options' put: self optionsTest
+      connector currentWorkingDirectory: (self find: targetHash) ].
+  payload at: 'cwd' put: connector currentWorkingDirectory.
+  payload at: 'files' put: connector currentWorkingDirectory children.
+  payload at: 'options' put: connector elFinderOptions

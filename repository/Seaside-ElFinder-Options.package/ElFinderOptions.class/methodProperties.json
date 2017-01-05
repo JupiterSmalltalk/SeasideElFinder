@@ -1,5 +1,9 @@
 {
 	"class" : {
-		"elFinderName" : "jupiter 12/25/2016 17:37" },
+		 },
 	"instance" : {
-		"javascriptContentOn:" : "jupiter 12/25/2016 17:35" } }
+		"buildConfigurationOption:" : "jupiter 12/30/2016 15:10",
+		"buildConfigurationOptions" : "jupiter 12/29/2016 22:14",
+		"copy" : "jupiter 12/29/2016 23:32",
+		"doesNotUnderstand:" : "jupiter 12/30/2016 15:08",
+		"javascriptContentOn:" : "jupiter 12/29/2016 16:57" } }

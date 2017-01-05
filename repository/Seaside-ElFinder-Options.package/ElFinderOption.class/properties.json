@@ -1,0 +1,18 @@
+{
+	"category" : "Seaside-ElFinder-Options",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"key",
+		"selector",
+		"required",
+		"default",
+		"optionClass" ],
+	"name" : "ElFinderOption",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

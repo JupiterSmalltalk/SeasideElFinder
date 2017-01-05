@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addVolume:" : "jupiter 12/28/2016 22:51",
+		"childDirectories" : "jupiter 12/28/2016 21:42",
+		"children" : "jupiter 12/27/2016 18:05",
+		"cssCls" : "jupiter 12/28/2016 20:13",
+		"dirs" : "jupiter 12/28/2016 20:11",
+		"driverId" : "jupiter 12/27/2016 17:38",
+		"initialize" : "jupiter 12/27/2016 17:46",
+		"isDirectory" : "jupiter 12/28/2016 21:37",
+		"isRoot" : "jupiter 12/28/2016 20:13",
+		"locked" : "jupiter 12/28/2016 20:11",
+		"read" : "jupiter 12/28/2016 20:10",
+		"ts" : "jupiter 12/28/2016 20:10",
+		"volumes" : "jupiter 12/27/2016 17:46",
+		"write" : "jupiter 12/28/2016 20:11" } }

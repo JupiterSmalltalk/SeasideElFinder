@@ -9,8 +9,8 @@ debugDictionaryWithCommand: cmd timeToRun: timeToRun exception: exception
         add:
           (GRSmallDictionary new
             at: 'id' put: root volumeId;
-            at: 'name' put: root class name;
-            at: 'mimeDetect' put: root mimeDetect;
+            at: 'name' put: root class name asLowercase;
+            at: 'mimeDetect' put: 'internal';
             yourself) ].
   ^ GRSmallDictionary new
     at: 'connector' put: 'SeasideElFinder';

@@ -1,3 +1,0 @@
-accessing
-elFinderName
-  ^ self subclassResponsibility

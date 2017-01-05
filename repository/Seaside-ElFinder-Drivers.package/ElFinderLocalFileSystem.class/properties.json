@@ -6,9 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"id",
+		"osPath",
+		"url" ],
 	"name" : "ElFinderLocalFileSystem",
 	"pools" : [
 		 ],
-	"super" : "ElFinderDriver",
+	"super" : "ElFinderLocalDirectory",
 	"type" : "normal" }

@@ -2,4 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
-		 } }
+		"imageDefaultDirectoryVolumeGroup" : "jupiter 12/27/2016 17:48",
+		"imageDefaultLocalFileSystem" : "jupiter 12/28/2016 14:46",
+		"testChildren" : "jupiter 12/28/2016 15:07",
+		"testHashes" : "jupiter 12/28/2016 15:49",
+		"testRelativePath" : "jupiter 12/28/2016 15:35",
+		"testRootVolume" : "jupiter 12/27/2016 16:10",
+		"testVolumeId" : "jupiter 12/27/2016 17:57" } }

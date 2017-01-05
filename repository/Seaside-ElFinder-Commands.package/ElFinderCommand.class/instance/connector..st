@@ -1,3 +1,3 @@
-updating
+accessing
 connector: aConnector
   connector := aConnector
