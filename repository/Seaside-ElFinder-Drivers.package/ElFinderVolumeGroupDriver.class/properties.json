@@ -4,12 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "jupiter 01/04/2017 18:13",
 	"instvars" : [
-		"id",
-		"options" ],
-	"name" : "ElFinderDriver",
+		 ],
+	"name" : "ElFinderVolumeGroupDriver",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "ElFinderDriver",
 	"type" : "normal" }

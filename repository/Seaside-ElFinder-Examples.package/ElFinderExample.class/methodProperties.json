@@ -3,6 +3,9 @@
 		"install" : "jupiter 12/25/2016 01:27",
 		"uninstall" : "jupiter 12/07/2016 22:34" },
 	"instance" : {
-		"elFinderScriptOn:" : "jupiter 12/28/2016 22:38",
+		"elFinderScript:commandsConfigurationOn:" : "jupiter 01/04/2017 20:54",
+		"elFinderScript:connectorConfigurationOn:" : "jupiter 01/05/2017 15:31",
+		"elFinderScript:newConnectorConfigurationOn:" : "jupiter 01/05/2017 15:48",
+		"elFinderScriptOn:" : "jupiter 01/04/2017 20:48",
 		"renderContentOn:" : "jupiter 12/25/2016 01:28",
 		"updateRoot:" : "jupiter 12/07/2016 23:16" } }

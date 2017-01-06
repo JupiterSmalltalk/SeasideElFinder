@@ -12,31 +12,7 @@ elFinderScriptOn: canvas
     customDataAt: 'mySecondCustomData' put: 'mySecondCustomDataValue';
     debug: true;
     yourself.
-  elFinderScript connector
-    addRoot:
-        (volumeGroup := ElFinderVolumeGroup new
-            id: '1';
-            alias: 'Local Group';
-            yourself);
-    addRoot:
-        (volumeGroup
-            addVolume:
-              (ElFinderLocalFileSystem new
-                id: '2';
-                alias: 'Smalltalk Default Directory';
-                osPath: GRPlatform current defaultDirectoryPathString;
-                parent: volumeGroup;
-                yourself));
-    addRoot:
-        (volumeGroup
-            addVolume:
-              (ElFinderLocalFileSystem new
-                id: '3';
-                alias: '5Smiths Server';
-                osPath:
-                    '/opt/git/nextround/ContractorManager/privateCloud/server';
-                url: 'http://dev.5smiths/com.au/server';
-                parent: volumeGroup;
-                yourself));
-    debug: true.
+  self
+    elFinderScript: elFinderScript commandsConfigurationOn: canvas;
+    elFinderScript: elFinderScript connectorConfigurationOn: canvas.
   ^ elFinderScript

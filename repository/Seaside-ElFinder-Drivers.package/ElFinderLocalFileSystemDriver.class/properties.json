@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"id",
-		"options" ],
-	"name" : "ElFinderDriver",
+		"osPath" ],
+	"name" : "ElFinderLocalFileSystemDriver",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "ElFinderDriver",
 	"type" : "normal" }

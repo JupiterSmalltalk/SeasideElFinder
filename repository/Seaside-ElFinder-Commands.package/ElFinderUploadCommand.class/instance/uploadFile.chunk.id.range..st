@@ -18,7 +18,7 @@ uploadFile: file chunk: chunk id: chunkId range: range
       chunkSize := range second asNumber.
       totalSize := range last asNumber ].
   uploadFile := partNumber == 0
-    ifTrue: [ connector uploadTempDirectory newFileNamed: fileName ]
+    ifTrue: [ connector uploadTempDirectory forceNewFileNamed: fileName ]
     ifFalse: [ connector uploadTempDirectory oldFileNamed: fileName ].
   uploadFile
     binary;
