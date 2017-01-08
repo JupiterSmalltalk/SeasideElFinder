@@ -14,7 +14,7 @@ elFinderScript: elFinderScript connectorConfigurationOn: canvas
               (ElFinderLocalFileSystem new
                 id: '2';
                 alias: 'Smalltalk Default Directory';
-                osPath: GRPlatform current defaultDirectoryPathString;
+                osPath: self imageDefaultDirectoryPath;
                 yourself));
     addRoot:
         (volumeGroup
