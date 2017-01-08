@@ -23,4 +23,16 @@ baseline: spec
           with: [ spec requires: #('Seaside-ElFinder-Drivers') ];
         package: 'Seaside-ElFinder-Tests-Core';
         package: 'Seaside-ElFinder-Tests-Scripting'
-          with: [ spec requires: #('Seaside-ElFinder-Core') ] ]
+          with: [ spec requires: #('Seaside-ElFinder-Core') ] ].
+  spec
+    for: #'pharo'
+    do: [ 
+      spec
+        package: 'Seaside-ElFinder-Pharo'
+        with: [ spec requires: #('Seaside-ElFinder-Core') ] ].
+  spec
+    for: #'gemstone'
+    do: [ 
+      spec
+        package: 'Seaside-ElFinder-GemStone'
+        with: [ spec requires: #('Seaside-ElFinder-Core') ] ]
