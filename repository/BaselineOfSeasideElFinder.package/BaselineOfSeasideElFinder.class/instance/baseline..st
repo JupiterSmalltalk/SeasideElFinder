@@ -7,8 +7,9 @@ baseline: spec
       spec
         package: 'Seaside-ElFinder-FileLibraries';
         package: 'Seaside-ElFinder-Commands';
-        package: 'Seaside-ElFinder-Drivers';
         package: 'Seaside-ElFinder-Options';
+        package: 'Seaside-ElFinder-Drivers'
+          with: [ spec requires: #('Seaside-ElFinder-Options') ];
         package: 'Seaside-ElFinder-Connector'
           with: [ 
               spec
