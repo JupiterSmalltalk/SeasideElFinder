@@ -1,7 +1,7 @@
 private
 createMimeMap
-  mimeMap := (self rawMimeMap substrings: Character lf)
+  mimeMap := (self rawMimeMap substrings: Character lf asString)
     collect: [ :each | 
       | typeInfo |
-      (typeInfo := each substrings: $ ) allButFirst
+      (typeInfo := each substrings: $  asString) allButFirst
         -> (WAMimeType fromString: typeInfo first) ]
