@@ -1,3 +1,3 @@
 accessing
 optionalOptions
-  ^ super optionalOptions copyWithAll: #('tmb' 'dim')
+  ^ super optionalOptions , #('tmb' 'dim')

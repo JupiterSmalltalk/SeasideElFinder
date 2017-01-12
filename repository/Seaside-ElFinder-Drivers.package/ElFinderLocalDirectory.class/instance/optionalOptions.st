@@ -1,3 +1,3 @@
 accessing
 optionalOptions
-  ^ super optionalOptions copyWithAll: #('cssCls')
+  ^ super optionalOptions , #('cssCls')

@@ -1,3 +1,3 @@
 accessing
 requiredOptions
-  ^ super requiredOptions copyWithAll: #('dirs')
+  ^ super requiredOptions , #('dirs')
